@@ -1,0 +1,44 @@
+@import url("https://fonts.googleapis.com/css?family=Roboto+Condensed|Source+Sans+Pro");
+body {
+  font-family: "Roboto Condensed", sans-serif;
+  margin: 0 auto;
+  text-align: center;
+  background-color: #55ACEE;
+}
+
+header h1 {
+  margin: 100px 0;
+  font-size: 56px;
+  color: #fff;
+  font-weight: 400;
+}
+
+.box h2, h3 {
+  margin: 40px 0;
+  font-size: 28px;
+  color: #fff;
+  font-weight: 400;
+}
+
+.trigger {
+  font-size: 16px;
+  margin: 50px 0 30px 0;
+  padding: 5px 80px;
+  background-color: #55ACEE;
+  color: #fff;
+  border: solid 1px;
+  border-radius: 3px;
+}
+
+.tweet {
+  font-size: 16px;
+  border: solid 1px #fff;
+  padding: 7px 82px;
+  color: #fff;
+  border-radius: 3px;
+}
+
+.tweet .fa-twitter {
+  padding: 15px;
+}
+/*# sourceMappingURL=style.prefixed.css.map */
